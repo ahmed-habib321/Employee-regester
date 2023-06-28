@@ -1,2 +1,2 @@
 # Employee-regester
-Employee regester project using tkinter and text files
+Simple Employee regester project using tkinter and text files
